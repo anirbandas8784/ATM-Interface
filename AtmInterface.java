@@ -1,4 +1,4 @@
-package CodsoftInternship;
+
     import java.util.Scanner;
 
 
